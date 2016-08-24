@@ -3,7 +3,7 @@
 var str = "abaxabaxabb"
 
 //O(n2) solution
-func longestPalindromeSubstring(_ str:String) -> Int {
+func longestPalindromeSubstring(str:String) -> Int {
     let charArray = [Character](str.characters)
     let len = str.characters.count
     var longest_palindrome = 1;
