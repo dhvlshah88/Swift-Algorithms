@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++130FF07",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5+++FE0BDAD" : 0,
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++0D76A09" : 0,
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++6C7FB52" : 0,
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++130FF07" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46245A9D-F675-46DC-AE97-A63236D53F6E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5+++FE0BDAD" : "Substring%20Problem\/",
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++0D76A09" : "..",
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++6C7FB52" : "..",
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++130FF07" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SubstringProblem",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SubstringProblem.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5+++FE0BDAD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++0D76A09"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++130FF07"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08+++6C7FB52"
+    }
+  ]
+}

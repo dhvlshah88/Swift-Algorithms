@@ -21,7 +21,7 @@ public class SubstringProblem : NSObject {
         var charMap = [Character:Int]()
         
         for i in 0 ..< str.characters.count {
-            let c = str[str.startIndex.advancedBy(n: i)]
+            let c = str[str.startIndex.advancedBy(i)]
             if let count = charMap[c] {
                 charMap[c] = count + 1
             } else {
@@ -32,7 +32,7 @@ public class SubstringProblem : NSObject {
                 longLen = max(longLen, i - start)
                 
                 while charMap.count > 2 {
-                    let char = str[str.startIndex.advancedBy(n: start)]
+                    let char = str[str.startIndex.advancedBy(start)]
                     
                     if let count = charMap[char] {
                         charMap[char] = count - 1;

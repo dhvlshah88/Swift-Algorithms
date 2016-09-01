@@ -5,16 +5,16 @@
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5" : 0,
-    "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153" : 0
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08" : 0
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "46245A9D-F675-46DC-AE97-A63236D53F6E",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2422ECA1-96AE-4360-BBCA-15124D6BC9D5",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5" : "Substring%20Problem\/",
-    "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153" : ""
+    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5" : "Algorithms\/",
+    "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08" : ""
   },
-  "DVTSourceControlWorkspaceBlueprintNameKey" : "SubstringProblem",
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BinarySearch",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SubstringProblem.playground",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Search Problem\/Binary Search\/BinarySearch.playground",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
@@ -22,9 +22,9 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5"
     },
     {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91E4CDD0C6DF903DC41BC81811FC1DD96A114A08"
     }
   ]
 }
