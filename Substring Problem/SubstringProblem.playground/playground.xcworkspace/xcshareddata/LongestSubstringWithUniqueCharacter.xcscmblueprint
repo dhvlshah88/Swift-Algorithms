@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5" : 0,
+    "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9C164857-F9DC-4079-AE4C-C5C7389D7A28",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5" : "Substring%20Problem\/",
+    "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LongestSubstringWithUniqueCharacter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LongestSubstringWithUniqueCharacter.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FCE4DAA84F2ECB944233B74212D4C4BC0F28BC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dhvlshah88\/Swift-Algorithms.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7AC42A17E709CAE6CEE450C15B0BBF0E1B11153"
+    }
+  ]
+}

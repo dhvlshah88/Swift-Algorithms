@@ -1,5 +1,5 @@
 //
-//  LongestSubstringWithUniqueCharacter.swift
+//  SubstringProblem.swift
 //  
 //
 //  Created by Dhaval on 8/24/16.
@@ -8,8 +8,13 @@
 
 import Foundation
 
-class LongestSubstringWithUniqueCharacter {
+class SubstringProblem : NSObject {
     
+    public override init() {
+        
+    }
+    
+    //Longest substring which contains two unique character
     func longestSubstringWithTwoUniqueCharacter(str:String) -> Int {
         var longLen = 0
         var start = 0
