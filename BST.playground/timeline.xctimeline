@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Dhaval/Documents/Swift/Algorithms/BST.playground#CharacterRangeLen=6&amp;CharacterRangeLoc=1853&amp;EndingColumnNumber=9&amp;EndingLineNumber=84&amp;StartingColumnNumber=3&amp;StartingLineNumber=84&amp;Timestamp=607121366.310562"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/Dhaval/Documents/Swift/Algorithms/BST.playground#CharacterRangeLen=18&amp;CharacterRangeLoc=1888&amp;EndingColumnNumber=0&amp;EndingLineNumber=89&amp;StartingColumnNumber=1&amp;StartingLineNumber=88&amp;Timestamp=607121366.310711"
+         lockedSize = "{452.8828125, 50}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
