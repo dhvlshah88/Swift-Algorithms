@@ -25,4 +25,26 @@ private func permuteRecursive(_ nums: [Int], _ arr: [Int], _ index: Int, _ visit
   }
 }
 
-let p = permute([1,2,3])
+
+func permute1(_ nums: [Int]) -> [[Int]] {
+  var result = [[Int]]()
+  if nums.isEmpty { return result }
+  result.append( [] )
+  for num in nums {
+    let count = result.count
+    for _ in 0 ..< count {
+      let prefix = result.removeFirst()
+      for j in 0 ... prefix.count {
+        var tmp = prefix
+        tmp.insert(num, at: j)
+        result.append(tmp)
+      }
+    }
+  }
+  return result
+}
+
+
+
+
+let p = permute1 ([1,2,3])
